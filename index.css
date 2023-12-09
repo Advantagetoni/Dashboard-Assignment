@@ -1,0 +1,40 @@
+
+
+
+
+
+
+.container{ background-color:white;
+margin-top: 150px;
+margin-left: 50px;
+text-align: center;
+}
+
+
+
+
+
+ .ford{ font-size: 200px;
+font-weight:bold;  color: rgb(12, 6, 48);}
+
+.error{ font-size: small; padding: 10px;}
+
+
+.botton a{
+    display: inline-block;
+    padding: 6px 15px;
+    text-decoration: none;
+    background-color: blue;
+    border-radius: 5px;
+    color: white;}
+
+
+.botton a:hover{
+    background-color: rgb(234, 21, 21);
+    display: inline-block;}
+
+
+    .bad p{display: inline-flex; margin:1px; font-size: 40px; }
+
+
+     .bad i{ color: red; font-size: 35px; }
